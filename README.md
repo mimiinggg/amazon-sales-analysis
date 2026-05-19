@@ -9,7 +9,7 @@ I started exploring and cleaning the data by checking the basics such as
 
 3. Duplicate --> None
 
-As I decided to move on to segment the data for further analysis, I ran into multiple code error messages, which I revisit this step to trouble shoot them with the help of AI for efficiency.
+As I decided to move on to segment the data for further analysis, I ran into multiple code error messages, which I revisit this step to trouble shoot them.
 
 1. **Anomalous Data:** Identified only a corrupted string ('|) in 'rating' column. Remove this row of data.
 
